@@ -1,4 +1,4 @@
-Te behandelen:
+To cover:
 
-h9: fetch & async
+ch. 9: fetch & async
 
